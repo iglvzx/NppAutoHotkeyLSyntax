@@ -1,0 +1,30 @@
+Object
+Array
+ComObjActive
+ComObjEnwrap/Unwrap
+ComObjParameter
+ComObjMissing
+ComObjArray
+ComObjConnect
+ComObjCreate
+ComObjError
+ComObjGet
+ComObjQuery
+ComObjType
+ComObjValue
+DllCall
+FileExist
+GetKeyState
+InStr
+OnMessage
+RegExMatch
+RegExReplace
+RegisterCallback
+StrLen
+SubStr
+VarSetCapacity
+WinActive
+WinExist
+<!-- Miscellaneous Functions -->
+<!-- General Math -->
+<!-- Trigonometry -->
