@@ -60,7 +60,7 @@ A_IconNumber
 <!-- User Idle Time -->
 A_TimeIdle
 A_TimeIdlePhysical
-<! -- GUI Windows and Menu Bars -->
+<!-- GUI Windows and Menu Bars -->
 A_Gui
 A_GuiControl
 A_GuiWidth
