@@ -14,7 +14,7 @@
         <!-- Commands, Functions -->
             <Keywords name="Words1"></Keywords>
         <!-- HashCommands -->
-            <Keywords name="Words2"></Keywords>
+            <Keywords name="Words2">#AllowSameLineComments #ClipboardTimeout #CommentFlag #ErrorStdOut #EscapeChar #HotkeyInterval #HotkeyModifierTimeout #Hotstring #If #IfTimeout #IfWinActive #IfWinExist #Include #InputLevel #InstallKeybdHook #InstallMouseHook #KeyHistory #MaxHotkeysPerInterval #MaxMem #MaxThreads #MaxThreadsBuffer #MaxThreadsPerHotkey #MenuMaskKey #NoEnv #NoTrayIcon #Persistent #SingleInstance #UseHook #Warn #WinActivateForce </Keywords>
         <!-- Keywords -->
             <Keywords name="Words3"></Keywords>
         <!-- Variables -->
